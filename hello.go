@@ -1,5 +1,5 @@
 package hello 
 import "fmt"
-func say() {
+func GetHello() {
     fmt.Println("hello world")
 }
